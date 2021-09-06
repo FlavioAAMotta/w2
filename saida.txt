@@ -1,0 +1,12 @@
+Olá Flavio
+ você tem o imc de 16.666666666667 e está abaixo do peso 
+Olá Caio
+ você tem o imc de 100 e está obesidade 3 
+Olá João
+ você tem o imc de 17.5 e está abaixo do peso 
+Olá Guilherme
+ você tem o imc de 21.97133585722 e está peso ideal 
+Olá Maria
+ você tem o imc de 31.111111111111 e está obesidade 1 
+Olá Cleitim
+ você tem o imc de 44.378698224852 e está obesidade 3 

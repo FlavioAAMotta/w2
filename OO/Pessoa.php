@@ -5,6 +5,7 @@
         private $RG;
         private $email;
         private $nascimento;
+        private $saldo;
 
         public function __construct(){
             $this->RG = -1;
